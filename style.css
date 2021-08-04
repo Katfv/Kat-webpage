@@ -1,0 +1,17 @@
+.navbar{
+  background-color: cyan;
+  overflow: hidden;
+}
+.navbar a{
+  float: left;
+  color: darkcyan;
+  text-align: center;
+  padding: 12px 14px;
+  text-decoration: none;
+  font-size: 18px; 
+}
+.navbar a:hover{
+  background-color: thistle;
+  color: darkmagenta;
+}
+.navbar
