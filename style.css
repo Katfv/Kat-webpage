@@ -46,7 +46,30 @@ body{
   width: 50%;
 }
 
-
-pic{
-  border-radius: 25%;
+.c{
+  text-align: center;
 }
+
+.center{
+  text-align:center
+}
+
+button{
+  background-color: rgba(0, 255, 255, 0.459);
+  border: none;
+  color: darkcyan;
+  padding: 15px 15px;
+  text-align:center; 
+  display: inline-block; 
+  font-size: 12px;
+  border-radius: 12px;
+}
+
+button:hover{
+  background-color: pink;
+  color: white; 
+  border: 1px solid fuchsia;
+  transition-duration: .3s;
+}
+
+
